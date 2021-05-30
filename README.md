@@ -7,7 +7,7 @@
 | CPU | AMD Ryzen 7 3700x @ 3.6GHz |
 | Motherboard |  MSI B450 Mortar Max |
 | RAM | 16GB (2 x 8GB) G.Skill Ripjaws @ 3200MHz |
-| Audio Chipset | ALCS-1200A |
+| Audio Chipset | Realtek® ALC892/ALC897 Codec |
 | GPU | ASUS GT710 |
 | Ethernet | RTL8125 2.5GbE |
 | WiFi | TL-WN823N |
@@ -35,7 +35,6 @@
  - [[Kext] AppleMCEReporterDisabler](https://github.com/AMD-OSX/AMD_Vanilla/blob/opencore/Extra/AppleMCEReporterDisabler.kext.zip)
  - [[Kext] RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
  - [[Kext] NullEthernet](https://github.com/RehabMan/OS-X-Null-Ethernet)
- - [[Kext] IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
  - [[Kext] AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
  - [[Kext] SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
 
