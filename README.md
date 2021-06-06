@@ -9,7 +9,7 @@
 | RAM | 16GB (2 x 8GB) G.Skill Ripjaws @ 3200MHz |
 | Audio Chipset | Realtek® ALC892/ALC897 Codec |
 | GPU | ASUS GT710 |
-| Ethernet | RTL8125 2.5GbE |
+| Ethernet | Realtek® RTL8111H-CG |
 | WiFi | TL-WN823N |
 | Bluetooth | TPLink UB400 |
 | OS Disk (NVME) | Kingston 500 GB  |
