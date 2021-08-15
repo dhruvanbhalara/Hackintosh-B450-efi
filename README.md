@@ -16,7 +16,7 @@
 
 **macOS version**: 11.4   
 
-**OpenCore version**: 0.6.9  
+**OpenCore version**: 0.7.2
 
 **SMBIOS**:  MacPro7,1
 
