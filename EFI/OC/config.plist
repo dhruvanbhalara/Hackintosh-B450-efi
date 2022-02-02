@@ -603,7 +603,7 @@
 				<key>MaxKernel</key>
 				<string>18.99.99</string>
 				<key>MinKernel</key>
-				<string>B8080000 0000</string>
+				<string>17.0.0</string>
 				<key>Replace</key>
 				<data>uAAAAAAA</data>
 				<key>ReplaceMask</key>
@@ -1076,7 +1076,7 @@
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
-			<string>Full</string>
+			<string>Disable</string>
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
@@ -1086,7 +1086,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
