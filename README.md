@@ -18,9 +18,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | Bluetooth | TPLink UB400 |
 | OS Disk (NVME) | Kingston 500 GB  |
 
-**macOS version**: 11.4   
+**macOS version**: 13.3.1   
 
-**OpenCore version**: 0.7.2
+**OpenCore version**: 0.9.1
 
 **SMBIOS**:  MacPro7,1
 
