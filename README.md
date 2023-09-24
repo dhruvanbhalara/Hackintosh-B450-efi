@@ -12,7 +12,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | Motherboard |  MSI B450 Mortar Max |
 | RAM | 16GB (2 x 8GB) G.Skill Ripjaws @ 3200MHz |
 | Audio Chipset | Realtek® ALC892/ALC897 Codec |
-| GPU | ASUS GT710 |
+| GPU | NVIDIA GT710 |
 | Ethernet | Realtek® RTL8111H-CG |
 | WiFi | TL-WN823N |
 | Bluetooth | TPLink UB400 |
